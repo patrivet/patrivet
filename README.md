@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-As Grace Hopper said:
-> I’ve always been more interested
-> in the future than in the past.
-
 <!--
 **patrivet/patrivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
