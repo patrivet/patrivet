@@ -14,7 +14,7 @@ React, Typescript, Express.js, GraphQL, MongoDB & Sass.
 
 
 ### How to reach me 📫:  
-email: [patrickmrivet@gmail.com](mailto:patrickmrivet@gmail.com). 
+email: [patrickmrivet@gmail.com](mailto:patrickmrivet@gmail.com)
 
 linkedIn: [https://www.linkedin.com/in/pat-rivet/](https://www.linkedin.com/in/pat-rivet/)
 
