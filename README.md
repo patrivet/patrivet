@@ -21,6 +21,8 @@ linkedIn: [https://www.linkedin.com/in/pat-rivet/](https://www.linkedin.com/in/p
 twitter: [@toddrivers_](https://twitter.com/ToddRivers_)    
 
 
+
+### Closing quote 😄
 > “Talk is cheap. Show me the code."  
 > Linus Torvalds
 
