@@ -22,7 +22,7 @@ twitter: [@toddrivers_](https://twitter.com/ToddRivers_)
 
 
 
-### Closing quote 😄
+### Closing quote 📢
 > “Talk is cheap. Show me the code."  
 > Linus Torvalds
 
