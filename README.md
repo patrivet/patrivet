@@ -18,8 +18,6 @@ email: [patrickmrivet@gmail.com](mailto:patrickmrivet@gmail.com)
 
 linkedIn: [https://www.linkedin.com/in/pat-rivet/](https://www.linkedin.com/in/pat-rivet/)
 
-twitter: [@toddrivers_](https://twitter.com/ToddRivers_)    
-
 
 
 ### Closing quote 📢
