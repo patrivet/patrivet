@@ -7,7 +7,7 @@
 Two apps I've built recently are [TennisClubLadder](https://github.com/patrivet/TennisClubLadder) - a tennis ladder league tracking app, which was I build over a week using Express.js, MongoDB, React and Sass, and [SteamWreck](https://github.com/patrivet/SteamWreck), which recommends a Steam users next games to play, and was built by a team of 4 over 2 weeks, using Express.js, MongoDB, Mongoose, React with Typescript and Sass.
 
 ### I’m currently working on 🔭 
-Adding extra features to TennisClubLadder, using Typescript and Redux.
+To simple [to-do list app](https://todolist-patrivet.netlify.app/) using Redux.
 
 ### Some of my current favourites technologies are  💻
 React, Typescript, Express.js, GraphQL, MongoDB & Sass.
