@@ -18,13 +18,6 @@ email: [patrickmrivet@gmail.com](mailto:patrickmrivet@gmail.com)
 
 linkedIn: [https://www.linkedin.com/in/pat-rivet/](https://www.linkedin.com/in/pat-rivet/)
 
-
-
-### Closing quote 📢
-> “Talk is cheap. Show me the code."  
-> Linus Torvalds
-
-
 <!--
 **patrivet/patrivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
