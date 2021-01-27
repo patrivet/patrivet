@@ -5,7 +5,7 @@
 
 
 ### I’m currently working on 🔭 
-A Covid-19 tracker [app](https://github.com/patrivet/covid19-tracker)
+[Covid-19 tracker](https://github.com/patrivet/covid19-tracker) - a react app which tracks the latest covid-19 statistics at a global level and broken across global countries. 
 
 ### Some previous work ⌨️
 - [TennisClubLadder](https://github.com/patrivet/TennisClubLadder) - a tennis ladder league tracking app, which was I build over a week using Express.js, MongoDB, React and Sass.
