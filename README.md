@@ -7,8 +7,7 @@
 ### I’m currently working on 🔭 
 A Covid-19 tracker [app](https://github.com/patrivet/covid19-tracker)
 
-### Some previous work:
-:blossom: 
+### Some previous work ⌨️
 - [TennisClubLadder](https://github.com/patrivet/TennisClubLadder) - a tennis ladder league tracking app, which was I build over a week using Express.js, MongoDB, React and Sass.
 - [SteamWreck](https://github.com/patrivet/SteamWreck), which recommends a Steam users next games to play, and was built by a team of 4 over 2 weeks, using Express.js, MongoDB, Mongoose, React with Typescript and Sass.
 
