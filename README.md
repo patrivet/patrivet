@@ -13,7 +13,7 @@
 
 
 ### Some of my current favourites technologies are  💻
-React, Typescript, Express.js, GraphQL, MongoDB & Sass.
+React, TypeScript, Express.js, GraphQL, MongoDB & Sass.
 
 
 ### How to reach me 📫
