@@ -1,7 +1,8 @@
 
 
 
-## Hey 👋🏼 I'm Pat and welcome to my github ::: make yourself at home ☕
+<h2 align='center'>Hey 👋🏼 I'm Pat</h2>
+<h3 align='center'>Welcome to my github.  Make yourself at home ☕</h3>
 
 
 ### I’m currently working on 🔭 
