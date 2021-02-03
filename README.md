@@ -18,7 +18,7 @@
 | Tech | Link |
 | ----------- | ----------- |
 | React | <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react-icon" width="35"/></a> |
-| Redux | <a href="https://react-redux.js.org/" target="_blank"><img src="https://w7.pngwing.com/pngs/669/447/png-transparent-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-violet.png" alt="redux-icon" width="35"/></a> |
+| Redux | <a href="https://react-redux.js.org/" target="_blank"><img src="https://banner2.cleanpng.com/20180625/lql/kisspng-redux-react-logo-javascript-dq-5b318756781182.2250325315299725664918.jpg" alt="redux-icon" width="35"/></a> |
 | Sass | <a href="https://sass-lang.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass-icon" width="35"/></a> |
 | TypeScript | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typeScript-icon" width="35"/></a> |
 | GraphQL | <a href="https://graphql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphQL-icon" width="35"/></a> |
