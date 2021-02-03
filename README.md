@@ -22,7 +22,7 @@
 | Sass | <a href="https://sass-lang.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass-icon" width="35"/></a> |
 | TypeScript | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typeScript-icon" width="35"/></a> |
 | GraphQL | <a href="https://graphql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphQL-icon" width="35"/></a> |
-| MongoDB | <a href="https://www.mongodb.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB-icon" width="35"/></a> |
+| MongoDB | <a href="https://www.mongodb.com/" target="_blank"><img src="https://banner2.cleanpng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg" alt="mongoDB-icon" width="35"/></a> |
 
 
 
