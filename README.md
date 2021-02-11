@@ -12,20 +12,23 @@
 - [TennisClubLadder](https://github.com/patrivet/TennisClubLadder) - a tennis ladder league tracking app, which was I build over a week using Express.js, MongoDB, React and Sass.
 - [SteamWreck](https://github.com/patrivet/SteamWreck), which recommends a Steam users next games to play, and was built by a team of 4 over 2 weeks, using Express.js, MongoDB, Mongoose, React with TypeScript and Sass.
 
+### Technologies I use now:
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="45" height="45"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="45" height="45"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="45" height="45"/> </a> 
+  <a href="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="45" height="45"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="45" height="45"/> </a>
+  <a href="https://react-redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="45" height="45"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs" width="45" height="45"/> </a> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="express" width="45" height="45"/> </a> 
+  <a href="https://graphql.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png" alt="css3" width="45" height="45"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="45" height="45"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="45" height="45"/> </a>
+</p>
 
-### Some of my current favourites technologies:
-
-| Tech | Link |
-| ----------- | ----------- |
-| React | <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react-icon" width="45"/></a> |
-| Redux | <a href="https://react-redux.js.org/" target="_blank"><img src="https://banner2.cleanpng.com/20180625/lql/kisspng-redux-react-logo-javascript-dq-5b318756781182.2250325315299725664918.jpg" alt="redux-icon" width="45"/></a> |
-| Sass | <a href="https://sass-lang.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass-icon" width="45"/></a> |
-| TypeScript | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typeScript-icon" width="45"/></a> |
-| GraphQL | <a href="https://graphql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphQL-icon" width="45"/></a> |
-| MongoDB | <a href="https://www.mongodb.com/" target="_blank"><img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="mongoDB-icon" width="45"/></a> |
-
-
-
+### Ones I'm planning to use:
 
 
 ### How to reach me 📫
