@@ -4,11 +4,8 @@
 <h2 align='center'>Hey 👋🏼 I'm Pat</h2>
 <h3 align='center'>Welcome to my github.  Make yourself at home ☕</h3>
 
-
-### I’m currently working on 🔭 
-[Covid-19 tracker](https://github.com/patrivet/covid19-tracker) - a react app which tracks the latest covid-19 statistics at a global and country level. 
-
-### Some previous work ⌨️
+### Some apps I have built ⌨️
+- [Covid-19 tracker](https://github.com/patrivet/covid19-tracker) - a react app which tracks the latest covid-19 statistics at a global and country level. 
 - [TennisClubLadder](https://github.com/patrivet/TennisClubLadder) - a tennis ladder league tracking app, which was I build over a week using Express.js, MongoDB, React and Sass.
 - [SteamWreck](https://github.com/patrivet/SteamWreck), which recommends a Steam users next games to play, and was built by a team of 4 over 2 weeks, using Express.js, MongoDB, Mongoose, React with TypeScript and Sass.
 
